@@ -10,6 +10,7 @@ namespace GitFlowTutorial
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello This is a demo");
         }
     }
 }
